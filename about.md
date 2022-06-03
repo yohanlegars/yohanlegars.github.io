@@ -24,7 +24,7 @@ to become a competent engineer in this field in order to play a role in shaping 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/yohanlegars/RRT_RRT-star_mobilerobot_pygame">mobilerobot_pygame/a></li>
+	<li><a href="https://github.com/yohanlegars/RRT_RRT-star_mobilerobot_pygame">mobilerobot_pygame</a></li>
 	<li><a href="https://github.com/yohanlegars/Hand-Commands">Hand commands vision project</a></li>
 	
 </ul>
