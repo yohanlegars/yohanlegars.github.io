@@ -4,19 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>y name is Yohan Le Gars and I am a french software robotics student specializing in machine perception and computer vision. I currently live in the Netherlands where I study my master at TU Delft. I gotta say that I ended up studying robotics by inadvertance as I was not intially drawn to engineering and computers in general. But recently the field of cognitive robotics has been growing on me and now I am working hard
+to become a competent engineer in this field in order to play a role in shaping the society of tomorrow. Outside of the engineering world, I like to play various sports activities. I grew up playing golf, tennis and football. Every day I strive to be a good friend to my family and friends.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I will leave you with a french motto that was given by my uncle: Bosses à fond et après accélères!</p>
 
 <h2>Skills</h2>
 
