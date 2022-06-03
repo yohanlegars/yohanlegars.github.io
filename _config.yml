@@ -13,6 +13,10 @@ picture: assets/images/profile.jpg
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
 dark-theme: false
+accent-color:"#308941"
+accent-color-dark:"#41A700"
+background: "linear-gradient(315deg, white 0%, white 60%, #D9FFE0 100%)"
+background-dark: "linear-gradient(315deg, black 0%, black 60%, #143300 100%)"
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -30,7 +34,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: github # enter this from your disqus account
+  shortname: yohanlegars # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -58,7 +62,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
