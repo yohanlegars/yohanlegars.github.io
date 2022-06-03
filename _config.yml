@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: false
-accent-color:"#308941"
-accent-color-dark:"#41A700"
+dark-theme: auto
+accent-color: "#308941"
+accent-color-dark: "#41A700"
 background: "linear-gradient(315deg, white 0%, white 60%, #D9FFE0 100%)"
 background-dark: "linear-gradient(315deg, black 0%, black 60%, #143300 100%)"
 
