@@ -18,13 +18,14 @@ to become a competent engineer in this field in order to play a role in shaping 
 	<li>ROS</li>
 	<li>C++ - Python</li>
 	<li>Planning - SLAM</li>
+	<li>Git</li>
 	
 </ul>
 
-<h2>Projects</h2>
+<!-- <h2>Projects</h2> -->
 
-<ul>
+<!-- <ul>
 	<li><a href="https://github.com/yohanlegars/RRT_RRT-star_mobilerobot_pygame">mobilerobot_pygame</a></li>
 	<li><a href="https://github.com/yohanlegars/Hand-Commands">Hand commands vision project</a></li>
 	
-</ul>
+</ul> -->

@@ -20,9 +20,9 @@ background-dark: "linear-gradient(315deg, black 0%, black 40%, #015f6a 100%)"   
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: false
-#resume-url: https://google.com/?q=my+resume
+resume-url: assets/uploads/mycv2022.pdf
 
 url: https://yohanlegars.github.io
 # your url: https://USERNAME.github.io
@@ -43,6 +43,7 @@ disqus:
 #instagram: myinstagram
 linkedin: yohan-le-gars-3264731b4
 github: yohanlegars
+kaggle: yohanlegars
 email: yohan.legars@gmail.com
 
 authors:
