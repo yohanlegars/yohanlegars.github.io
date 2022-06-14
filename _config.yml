@@ -13,9 +13,9 @@ picture: assets/images/profile.jpg
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
 dark-theme: auto
-accent-color: "#11adf0fc" #words  #->blue       # "#308941" -> green
+accent-color: "#ffe346"             #"#11adf0fc" #words  #->blue       # "#308941" -> green
 accent-color-dark: "#0edae4" #->cian  #words       #"#41A700"
-background: "linear-gradient(315deg, white 0%, white 90%, white 100%)"   #D9FFE0
+background: "linear-gradient(315deg, #40cbee 50%, #40cbee 50%)"   #D9FFE0  #fbdd73(yellow sun)
 background-dark: "linear-gradient(315deg, black 0%, black 40%, #015f6a 100%)"   ##143300
 
 # If you want to include your resume, set to true
@@ -63,7 +63,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
