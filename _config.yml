@@ -12,10 +12,10 @@ picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: true
+dark-theme: auto
 accent-color: "#11adf0fc" #words  #->blue       # "#308941" -> green
 accent-color-dark: "#0edae4" #->cian  #words       #"#41A700"
-background: "linear-gradient(315deg, white 0%, white 90%, #0156d6 100%)"   #D9FFE0
+background: "linear-gradient(315deg, white 0%, white 90%, white 100%)"   #D9FFE0
 background-dark: "linear-gradient(315deg, black 0%, black 40%, #015f6a 100%)"   ##143300
 
 # If you want to include your resume, set to true
