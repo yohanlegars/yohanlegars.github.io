@@ -74,7 +74,15 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+# collections:
+#   projects:
+#     output: true
+
+# feed:
+#   collections:
+#     - projects
+
+show_projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -114,6 +122,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-paginate-v2
+  - jekyll-target-blank
 
 compress_html:
   ignore:
