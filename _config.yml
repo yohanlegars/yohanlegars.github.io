@@ -74,13 +74,13 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-# collections:
-#   projects:
-#     output: true
+collections:
+  projects:
+    output: true
 
-# feed:
-#   collections:
-#     - projects
+feed:
+  collections:
+    - projects
 
 show_projects: true
 
