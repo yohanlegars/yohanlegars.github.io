@@ -7,7 +7,7 @@ layout: page
 <p>My name is Yohan Le Gars and I am a french software robotics engineer student specializing in machine perception and computer vision. I currently live in the Netherlands where I study my master at TU Delft. The field of cognitive robotics has been growing on me and now I am working
 towards obtaining the necessary skills in order to play a role in shaping the world of tomorrow. Outside of the engineering world, I enjoy playing various sport activities. I grew up playing golf, tennis and football. Every day I strive to be a good friend to my family and friends.</p>
 
-<p>I will leave you with a french motto that was given by my uncle: Bosses à fond et après accélère!</p>
+<p>I will leave you with a french motto that was given by my uncle: Bosse à fond et après accélère!</p>
 </div>
 <h2>Skills</h2>
 
