@@ -18,7 +18,7 @@ externalLink: false
 
 <div  style = "text-align: justify">
 <p>
-University assignment that consisted of developping software for autonomous driving of a prius vehicle in a simulated test track using ROS. The prius has two main sensors: a front-facing camera behind the windscreen and a 360 degree top mounted lidar.The vehicle receives camera images and lidar pointclouds as ROS topics.  
+University assignment that consisted of developping software for autonomous driving of a prius vehicle in a simulated test track using ROS. The prius has two main sensors: a front-facing camera behind the windscreen and a 360 degree top mounted lidar. The vehicle receives camera images and lidar pointclouds as ROS topics.  
 </p>
 <p>
 A virtual controllable Prius vehicle must use its sensors to detect obstacles and pedestrians, and use these detections to drive automatically between a path outlined by cones, without hitting any obstacle. The vehicle must stop at the sight of pedestrians.
