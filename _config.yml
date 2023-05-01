@@ -22,7 +22,7 @@ background-dark: "linear-gradient(315deg, black 0%, black 40%, #015f6a 100%)"   
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/uploads/mycv2022.pdf
+resume-url: assets/uploads/mycv2023.pdf
 
 url: https://yohanlegars.github.io
 # your url: https://USERNAME.github.io
