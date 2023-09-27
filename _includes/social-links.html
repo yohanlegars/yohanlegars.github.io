@@ -2,21 +2,24 @@
 
 <div class="social-links">
     {% if site.facebook %}
-    <a class="link" data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}"
+    <a class="link" data-title="facebook.com/{{ site.facebook }}"
+        href="https://facebook.com/{{ site.facebook }}"
         target="_blank" rel="noopener">
         <i class="fa-brands fa-facebook"></i>
     </a>
     {% endif %}
 
     {% if site.twitter %}
-    <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}"
+    <a class="link" data-title="twitter.com/{{ site.twitter }}"
+        href="https://twitter.com/{{ site.twitter }}"
         target="_blank" rel="noopener">
         <i class="fa-brands fa-twitter"></i>
     </a>
     {% endif %}
 
     {% if site.instagram %}
-    <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}"
+    <a class="link" data-title="instagram.com/{{ site.instagram }}"
+        href="https://instagram.com/{{ site.instagram }}"
         target="_blank" rel="noopener">
         <i class="fa-brands fa-instagram"></i>
     </a>
@@ -24,30 +27,41 @@
 
     {% if site.linkedin %}
     <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}"
-        href="https://nl.linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener">
+        href="https://nl.linkedin.com/in/{{ site.linkedin }}" target="_blank"
+        rel="noopener">
         <i class="fa-brands fa-linkedin"></i>
     </a>
     {% endif %}
 
     {% if site.github %}
-    <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}"
+    <a class="link" data-title="github.com/{{ site.github }}"
+        href="https://github.com/{{ site.github }}"
         target="_blank" rel="noopener">
         <i class="fa-brands fa-github"></i>
     </a>
     {% endif %}
 
     {% if site.kaggle %}
-    <a class="link" data-title="kaggle.com/{{ site.kaggle }}" href="https://www.kaggle.com/{{ site.kaggle }}"
+    <a class="link" data-title="kaggle.com/{{ site.kaggle }}"
+        href="https://www.kaggle.com/{{ site.kaggle }}"
         target="_blank" rel="noopener">
         <i class="fa-brands fa-kaggle"></i>
     </a>
     {% endif %}
 
-    {% if site.email %}
-    <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}" rel="noopener">
-        <i class="fa-regular fa-envelope"></i>
+    {% if site.hashnode %}
+    <a class="link" data-title="{{site.hashnode}}.hashnode.dev"
+        href="https://ylegars.hashnode.dev"
+        target="_blank" rel="noopener">
+        <i class="fa-brands fa-hashnode"></i>
     </a>
     {% endif %}
 
+    {% if site.email %}
+    <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}"
+        rel="noopener">
+        <i class="fa-regular fa-envelope"></i>
+    </a>
+    {% endif %}
 
 </div>
