@@ -13,13 +13,13 @@ layout: page
 <ul class="skill-list">
 	<li>C++ - Python</li>
 	<li>autonomous navigation</li>
+	<li>Machine Perception</li>
 	<li>Sensor Fusion</li>
 	<li>ROS (2)</li>
-	<li>Isaac Sim</li>
-	<li>PyTorch - Tensorflow</li>
+	<li>Simulation</li>
 	<li>Machine/Deep Learning</li>
 	<li>linux</li>
-	<li>Git</li>
+	<li>Version Control</li>
 	
 </ul>
 
